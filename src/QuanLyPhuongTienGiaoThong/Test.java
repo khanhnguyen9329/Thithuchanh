@@ -13,6 +13,7 @@ public class Test {
             choice = Integer.parseInt(scanner.nextLine());
             switch (choice) {
                 case 1:
+
                     System.err.println("CHỌN PHƯƠNG TIỆN MUỐN THÊM");
                     abc.showPhuongTien();
                     int key;
