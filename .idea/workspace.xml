@@ -2,11 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aebe24e-db18-403e-9503-da72745519ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DocGhiFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DocGhiFile/ViDuTapTaoTinThuMuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLySanPham/PhuongThuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLySanPham/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLySanPham/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLySinhVien2/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLySinhVien29/HocVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLySinhVien29/Lop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLySinhVien29/OutPutStream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLySinhVien29/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/DaLuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VongLap/VIEW/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/NhanVien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/mainStuden.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuanLyPhuongTienGiaoThong/OTo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuanLyPhuongTienGiaoThong/PhuongThuc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuanLyPhuongTienGiaoThong/PhuongTienGiaThongComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuanLyPhuongTienGiaoThong/PhuongTienGiaoThong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuanLyPhuongTienGiaoThong/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuanLyPhuongTienGiaoThong/XeMay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuanLyPhuongTienGiaoThong/XeTai.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +53,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/codegym/KeyStudy2&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "GitIgnore"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;GitIgnore&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.test">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="laptrinhjava.HelloWorld" />
       <module name="untitled" />
@@ -58,8 +80,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuanLySanPham.Test" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuanLySanPham.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuanLySanPham.main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuanLySanPham.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuanLySinhVien2.test" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuanLySinhVien2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -73,6 +137,16 @@
       <option name="presentableId" value="Default" />
       <updated>1662004374216</updated>
       <workItem from="1662004378330" duration="1518000" />
+      <workItem from="1665380298435" duration="30000" />
+      <workItem from="1665380425946" duration="14000" />
+      <workItem from="1665479640242" duration="150000" />
+      <workItem from="1665541750985" duration="46000" />
+      <workItem from="1665542617670" duration="2010000" />
+      <workItem from="1665544679963" duration="1852000" />
+      <workItem from="1665546858712" duration="3722000" />
+      <workItem from="1665564860314" duration="10640000" />
+      <workItem from="1665614066364" duration="3946000" />
+      <workItem from="1665625100788" duration="8562000" />
     </task>
     <servers />
   </component>
@@ -89,5 +163,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/QuanLySanPham/IO.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

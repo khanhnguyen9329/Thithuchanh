@@ -1,0 +1,1 @@
+Product {ID =1,Mã sản phẩm =2, Tên sản phẩm ='2', Giá =2.0USA , Số lượng =2Chiêc , Mô tả ='2'}
